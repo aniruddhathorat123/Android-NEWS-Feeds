@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NEWS_feeds</string>
+    <string name="ApplicationTitle">RSS NEWS FEEDS</string>
+    <string name="add_news_feeds">Add new feed</string>
+    <string name="news_webView_progress_dialog_message">Loading...</string>
+
+    <string name="add_rss_feed_page_title">Add new RSS feed</string>
+    <string name="add_rss_title_hint">Enter RSS title</string>
+    <string name="add_rss_source_link_hint">Enter RSS source link</string>
+    <string name="add_rss_image_link_hint">Enter RSS display image link</string>
+    <string name="add_rss_insert_rss_button_text">Add this RSS</string>
+    <string name="add_rss_clear_fields">Clear all fields</string>
+</resources>

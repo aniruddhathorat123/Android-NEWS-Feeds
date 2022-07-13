@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aniruddha.news_feeds"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:8:5-22:19
+15        android:allowBackup="true"
+15-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] C:\Users\aniru\.gradle\caches\transforms-3\d2d82602dbe4e040fb47b7f3d4ad9d83\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.NEWS_feeds" >
+23-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:14:9-48
+24        <activity android:name="com.aniruddha.news_feeds.MainActivity" >
+24-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:15:9-21:20
+24-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:15:19-47
+25            <intent-filter>
+25-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\Users\aniru\AndroidStudioProjects\NEWS_feeds\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <service
+32-->[androidx.room:room-runtime:2.2.6] C:\Users\aniru\.gradle\caches\transforms-3\283e5c68216ac412cc27d77fba8b6a38\transformed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+33            android:name="androidx.room.MultiInstanceInvalidationService"
+33-->[androidx.room:room-runtime:2.2.6] C:\Users\aniru\.gradle\caches\transforms-3\283e5c68216ac412cc27d77fba8b6a38\transformed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+34            android:directBootAware="true"
+34-->[androidx.room:room-runtime:2.2.6] C:\Users\aniru\.gradle\caches\transforms-3\283e5c68216ac412cc27d77fba8b6a38\transformed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+35            android:exported="false" />
+35-->[androidx.room:room-runtime:2.2.6] C:\Users\aniru\.gradle\caches\transforms-3\283e5c68216ac412cc27d77fba8b6a38\transformed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+36
+37        <provider
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\aniru\.gradle\caches\transforms-3\51a76857de97cd111203b3226346932c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+38            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+38-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\aniru\.gradle\caches\transforms-3\51a76857de97cd111203b3226346932c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+39            android:authorities="com.aniruddha.news_feeds.lifecycle-process"
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\aniru\.gradle\caches\transforms-3\51a76857de97cd111203b3226346932c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+40            android:exported="false"
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\aniru\.gradle\caches\transforms-3\51a76857de97cd111203b3226346932c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+41            android:multiprocess="true" />
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\aniru\.gradle\caches\transforms-3\51a76857de97cd111203b3226346932c\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+42    </application>
+43
+44</manifest>

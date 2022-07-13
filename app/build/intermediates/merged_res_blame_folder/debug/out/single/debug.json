@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_rss_list_item.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\rss_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_add_white_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_add_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_add_white_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_add_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_add_white_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_add_white_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_broken_image_black_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_broken_image_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_broken_image_black_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_broken_image_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_broken_image_black_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_broken_image_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_add_white_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_add_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_add_white_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_add_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_broken_image_black_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_broken_image_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_add_white_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_add_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_broken_image_black_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_broken_image_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_broken_image_black_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_broken_image_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_add_white_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_add_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_broken_image_black_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_broken_image_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_broken_image_black_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_broken_image_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_news_list_item.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\news_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_add_white_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_broken_image_black_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_broken_image_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_add_white_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_add_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_broken_image_black_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_broken_image_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_add_white_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_add_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_broken_image_black_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_broken_image_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_broken_image_black_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_broken_image_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_add_white_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_add_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_broken_image_black_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_broken_image_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_add_white_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_broken_image_black_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_broken_image_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_broken_image_black_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_broken_image_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_add_white_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_add_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_broken_image_24.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\drawable\\baseline_broken_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_news_webview.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\fragment_news_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_broken_image_black_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_broken_image_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_broken_image_black_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_broken_image_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_add_white_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_add_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_broken_image_black_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_broken_image_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add_rss.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\fragment_add_rss.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_add_white_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_add_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_add_white_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_add_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_add_white_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_add_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_broken_image_black_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_broken_image_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_broken_image_black_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_broken_image_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_broken_image_black_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_broken_image_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_broken_image_black_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_broken_image_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_add_white_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_add_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_baseline_add_white_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xhdpi\\baseline_add_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_add_white_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_add_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_baseline_add_white_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\baseline_add_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_add_white_36.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_add_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_add_white_24.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_add_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_broken_image_black_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_broken_image_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_baseline_broken_image_black_48.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxxhdpi\\baseline_broken_image_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_baseline_broken_image_black_18.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-xxhdpi\\baseline_broken_image_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_baseline_add_white_20.png.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\mipmap-hdpi\\baseline_add_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_add_20.xml.flat",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\NEWS_feeds\\app\\src\\main\\res\\drawable\\baseline_add_20.xml"
+    }
+]
