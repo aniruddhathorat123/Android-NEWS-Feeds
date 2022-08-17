@@ -13,7 +13,9 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-// Implementation of AsyncTask used to download XML feed from specified RSS.
+/**
+ * Implementation of AsyncTask used to download XML feed from specified RSS.
+ */
 public class DownloadRssXmlTask extends AsyncTask<String, Void, Object> {
     public static final String DOWNLOAD_XML_TASK_CONNECTION_ERROR = "connection_error";
     public static final String DOWNLOAD_XML_TASK_XML_PARSING_ERROR = "xml_error";
@@ -38,7 +40,6 @@ public class DownloadRssXmlTask extends AsyncTask<String, Void, Object> {
 
     @Override
     protected void onPostExecute(Object result) {
-        System.out.println("###### received the parsing");
         if (result instanceof Collection) {
             List<?> list = new ArrayList<>((Collection<?>)result);
             NewsDatabase db = NewsDatabase.getInstance(context.getApplicationContext());
@@ -67,8 +68,10 @@ public class DownloadRssXmlTask extends AsyncTask<String, Void, Object> {
         }
     }
 
-    // Uploads XML from stackoverflow.com, parses it, and combines it with
-// HTML markup. Returns HTML string.
+    /**
+     * Uploads XML from stackoverflow.com, parses it, and combines it with
+     * HTML markup. Returns HTML string.
+     */
     private List<News> loadXmlFromNetwork(String urlString) throws XmlPullParserException, IOException {
         InputStream stream = null;
         // Instantiate the parser
@@ -86,8 +89,10 @@ public class DownloadRssXmlTask extends AsyncTask<String, Void, Object> {
         }
     }
 
-    // Given a string representation of a URL, sets up a connection and gets
-// an input stream.
+    /**
+     * Given a string representation of a URL, sets up a connection and gets
+     * an input stream.
+     */
     private InputStream downloadUrl(String urlString) throws IOException {
         URL url = new URL(urlString);
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();

@@ -1,10 +1,8 @@
 package com.aniruddha.news_feeds;
 
-import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.Bundle;
 
-import androidx.activity.OnBackPressedCallback;
 import androidx.fragment.app.Fragment;
 
 import android.text.TextUtils;
@@ -14,10 +12,9 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import java.util.Objects;
-
 /**
- *
+ * Fragment responsible to show detailed NEWS once user clicked on any NEWS from the list of NEWS in
+ * {@link NewsFragment}.
  */
 public class NewsWebViewFragment extends Fragment {
     private WebView newsWebView;

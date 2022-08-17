@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NEWS_feeds</string>
+    <string name="app_name">NEWS feeds</string>
     <string name="ApplicationTitle">RSS NEWS FEEDS</string>
     <string name="add_news_feeds">Add new feed</string>
     <string name="news_webView_progress_dialog_message">Loading...</string>

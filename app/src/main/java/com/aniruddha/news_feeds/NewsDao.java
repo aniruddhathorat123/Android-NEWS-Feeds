@@ -4,6 +4,7 @@ import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
+import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 import androidx.room.Update;
 
@@ -14,9 +15,12 @@ import java.util.List;
  */
 @Dao
 public interface NewsDao {
-    // RSS fetching queries
     @Query("Select * from rss_table")
-    List<RssEntity> getAllRss();
+    RssEntity getAllRss();
+
+    // Available RSS fetching queries
+    @Query("Select * from rss_table where is_rss_available = 1")
+    LiveData<List<RssEntity>> getAvailableRss();
 
     @Insert
     void insertRss(RssEntity rssEntity);
@@ -24,8 +28,11 @@ public interface NewsDao {
     @Update
     void updateRss(RssEntity rssEntity);
 
-    @Delete
-    void deleteRss(RssEntity rssEntity);
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    void syncRss(RssEntity rssEntity);
+
+    @Query("Delete from rss_table where rssId = :rssId and rss_name = :rssName")
+    void deleteRss(int rssId, String rssName);
 
     // NEWS fetching queries
     @Query("select * from news_table")

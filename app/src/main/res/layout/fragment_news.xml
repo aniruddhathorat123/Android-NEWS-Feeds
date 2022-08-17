@@ -5,28 +5,22 @@
     android:layout_height="match_parent"
     tools:context=".NewsFragment"
     android:background="@color/colorPrimaryWhite">
-
     <androidx.constraintlayout.widget.ConstraintLayout
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/news_list"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_marginTop="@dimen/news_list_top_bottom_margin"
-            android:layout_marginBottom="@dimen/news_list_top_bottom_margin"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:listitem="@layout/news_list_item" />
-
         <androidx.fragment.app.FragmentContainerView
             android:id="@+id/news_web_view_container"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 </FrameLayout>

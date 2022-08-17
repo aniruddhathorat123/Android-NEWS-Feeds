@@ -13,14 +13,15 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- *
+ * Class perform the parsing of XML data which comes from the RSS feeds.
  */
 public class RssFeedsXmlParser {
     // We don't use namespaces
     private static final String ns = null;
     private int parentId;
 
-    public List<News> parse(InputStream in, int parentId) throws XmlPullParserException, IOException {
+    public List<News> parse(InputStream in, int parentId)
+            throws XmlPullParserException, IOException {
         this.parentId = parentId;
         try {
             XmlPullParser parser = Xml.newPullParser();
@@ -61,9 +62,7 @@ public class RssFeedsXmlParser {
         return entries;
     }
 
-    /**
-     *
-     */
+    /*
     public static class Entry {
         public final String title;
         public final String link;
@@ -76,7 +75,7 @@ public class RssFeedsXmlParser {
             this.link = link;
             this.imageLink = imageLink;
         }
-    }
+    }*/
 
     // Parses the contents of an entry. If it encounters a title, summary, or link tag, hands them off
     // to their respective "read" methods for processing. Otherwise, skips the tag.
@@ -100,7 +99,6 @@ public class RssFeedsXmlParser {
                     if (!TextUtils.isEmpty(data)) {
                         description = getDescriptionText(data);
                         photoLink = getImageUrl(data);
-                        System.out.println("##### photolink : " + photoLink);
                     }
                     break;
                 case "link":

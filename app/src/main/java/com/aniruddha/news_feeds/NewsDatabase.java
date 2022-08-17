@@ -54,9 +54,11 @@ public abstract class NewsDatabase extends RoomDatabase {
         @Override
         protected Void doInBackground(Void... voids) {
             RssEntity toiEntity = new RssEntity();
+            toiEntity.rssId = 1;
             toiEntity.rssName = DatabaseConstants.NEWS_DB_TOI_NAME;
             toiEntity.rssImage = DatabaseConstants.NEWS_DB_TOI_IMAGE;
             toiEntity.rssSource = DatabaseConstants.NEWS_DB_TOI_SOURCE_LINK;
+            toiEntity.isRssAvail = true;
             newsDao.insertRss(toiEntity);
             return null;
         }

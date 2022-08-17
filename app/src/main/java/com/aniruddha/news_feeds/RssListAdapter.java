@@ -29,6 +29,10 @@ public class RssListAdapter extends RecyclerView.Adapter<RssListAdapter.ViewHold
         this.rssEntities = rssEntities;
     }
 
+    public boolean isRssDataChanged(List<RssEntity> rssEntities) {
+        return !(this.rssEntities.equals(rssEntities));
+    }
+
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {

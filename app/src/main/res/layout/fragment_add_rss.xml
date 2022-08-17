@@ -8,7 +8,6 @@
     android:layout_margin="@dimen/display_parent_margin"
     tools:context=".AddRssFragment"
     android:background="@color/colorPrimaryWhite">
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -19,7 +18,6 @@
         style="@style/AddNewFeedTitleStyle"
         android:text="@string/add_rss_feed_page_title"
         android:layout_margin="5dp" />
-
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -31,7 +29,6 @@
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
         android:hint="@string/add_rss_title_hint"/>
-
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -40,7 +37,6 @@
         app:layout_constraintTop_toBottomOf="@id/add_rss_title"
         android:layout_margin="10dp"
         android:hint="@string/add_rss_source_link_hint" />
-
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -49,7 +45,6 @@
         app:layout_constraintTop_toBottomOf="@id/add_rss_source_link"
         android:layout_margin="10dp"
         android:hint="@string/add_rss_image_link_hint"/>
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -58,7 +53,6 @@
         app:layout_constraintTop_toBottomOf="@id/add_rss_image_link"
         android:layout_margin="10dp"
         android:text="@string/add_rss_insert_rss_button_text" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -67,5 +61,4 @@
         app:layout_constraintTop_toBottomOf="@id/insert_rss_button"
         android:text="@string/add_rss_clear_fields"
         android:layout_margin="10dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

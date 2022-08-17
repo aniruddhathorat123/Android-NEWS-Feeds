@@ -12,7 +12,7 @@ public class RssEntity implements Parcelable {
 
     public RssEntity(){}
 
-    @PrimaryKey(autoGenerate = true)
+    @PrimaryKey
     public int rssId;
 
     @ColumnInfo(name = DatabaseConstants.NEWS_DB_RSS_NAME_COLUMN)
@@ -24,11 +24,15 @@ public class RssEntity implements Parcelable {
     @ColumnInfo(name = DatabaseConstants.NEWS_DB_RSS_SOURCE_COLUMN)
     public String rssSource;
 
+    @ColumnInfo(name = DatabaseConstants.NEWS_DB_RSS_IS_AVAIL_COLUMN)
+    public boolean isRssAvail;
+
     protected RssEntity(Parcel in) {
         rssId = in.readInt();
         rssName = in.readString();
         rssImage = in.readString();
         rssSource = in.readString();
+        isRssAvail = in.readByte() != 0;
     }
 
     public static final Creator<RssEntity> CREATOR = new Creator<RssEntity>() {
@@ -54,5 +58,6 @@ public class RssEntity implements Parcelable {
         parcel.writeString(rssName);
         parcel.writeString(rssImage);
         parcel.writeString(rssSource);
+        parcel.writeByte((byte) (isRssAvail? 1 : 0));
     }
 }

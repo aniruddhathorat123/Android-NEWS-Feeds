@@ -68,10 +68,10 @@ public class AddRssFragment extends Fragment implements View.OnClickListener {
             newRssEntity.rssSource = source;
             newRssEntity.rssImage = imageLink;
 
-            if (!validateSource(newRssEntity)) {
+            /*if (!validateSource(newRssEntity)) {
                 Toast.makeText(getContext(), "Invalid Rss link", Toast.LENGTH_SHORT).show();
                 return;
-            }
+            }*/
 
             // We validated the RSS info, now add the Rss Data in DB.
             NewsDatabase.databaseWriteExecutor.execute( () -> {
